@@ -2,18 +2,6 @@
 
 A Python-based tool that evaluates the strength of user-provided passwords and offers actionable suggestions for improvement. This project demonstrates core security automation skills and integrates best practices for code quality and documentation.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Sample Output](#sample-output)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 The Password Strength Analyzer checks passwords for common weaknesses, such as insufficient length, lack of character variety, and missing special symbols. It provides a clear strength rating (Weak, Moderate, Strong) and specific suggestions to help users create more secure passwords.
