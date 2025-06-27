@@ -18,7 +18,7 @@ The Password Strength Analyzer checks passwords for common weaknesses, such as i
 ## Installation
 
 1. **Clone the Repository:**
-https://github.com/rrrdrgz951/CYB333_Security_Automation
+https://github.com/rrrdrgz951/CYB333_Security_Automation.git
 
 ## Usage
 
